@@ -4,6 +4,8 @@ expo sensers
 
 말씀: zoom in 터지는 이유 명확히 찾아내기
 
+말씀: Expo Camera의 autofocus="on" 포커스 어떻게 측정할지 값 로직으로 검토
+
 ----
 
 https://chatgpt.com/c/698466b6-aa18-8322-b7c1-4e7f9234a8d3
