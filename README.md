@@ -9,6 +9,10 @@ expo sensors
 
 말씀: Expo Camera의 autofocus="on" 포커스 어떻게 측정할지 값 로직으로 검토
 
+# 지도
+위도경도 입력폼(오프라인)
+온라인 구글맵(오프라인 때 끔) cli 갈 이유없음
+
 ----
 
 https://chatgpt.com/c/698466b6-aa18-8322-b7c1-4e7f9234a8d3
