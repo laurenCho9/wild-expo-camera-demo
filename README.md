@@ -1,6 +1,6 @@
 # expo 카메라
-말씀: sensers 안드로이드만 되는데 이부분 검토
-expo sensers
+말씀: sensors 안드로이드만 되는데 이부분 검토
+expo sensors
 
 말씀: zoom in 터지는 이유 명확히 찾아내기
 
