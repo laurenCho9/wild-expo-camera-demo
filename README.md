@@ -2,6 +2,8 @@
 말씀: sensers 안드로이드만 되는데 이부분 검토
 expo sensers
 
+말씀: zoom in 터지는 이유 명확히 찾아내기
+
 ----
 
 https://chatgpt.com/c/698466b6-aa18-8322-b7c1-4e7f9234a8d3
